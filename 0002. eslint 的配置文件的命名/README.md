@@ -4,7 +4,7 @@
 
 - https://eslint.org/docs/latest/use/configure/configuration-files#configuration-file
 
-## 📝 notes
+## 📒 notes
 
 - eslint 的配置文件命名有多种写法，比如 eslint.config |.js|.mjs|.cjs|.ts|.mts|.cts 或者 .eslintrc |.js|.json|.yml|.cjs|.mjs 或者 package.json 等等。需要知道 eslint 配置文件的命名是非常灵活的，这决定了 eslint 配置信息应该书写在什么位置，我们需要知道在哪查看 eslint 的配置信息。
 - 命令 `eslint --fix` 可用来一键修复模块中的一些能够被自动修复的错误。

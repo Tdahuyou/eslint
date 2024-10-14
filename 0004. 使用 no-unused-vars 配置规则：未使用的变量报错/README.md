@@ -4,7 +4,7 @@
 
 - https://eslint.org/docs/latest/rules/no-unused-vars - eslint 官方文档 no-unused-vars
 
-## 📝 notes
+## 📒 notes
 
 - `no-unused-vars` 用于检测代码中未使用的变量、函数参数或导入的模块。通常情况下，对于一个模块中未使用的变量，程序中是不会报错的。
 - **未被使用的变量对程序的逻辑并不会造成影响。**如果想要确保程序中不存在未使用的变量，可以通过 `no-unused-vars` 规则来检测并报错提示，然后再将这些提示的变量处理掉。
