@@ -35,7 +35,7 @@ export default [
 ];
 ```
 
-## 🤖 AI - eslint 的命名只有下面这些吗？
+## 🤖 ai - eslint 的命名只有下面这些吗？
 
 - eslint.config.js
 - eslint.config.mjs
@@ -79,7 +79,7 @@ ESLint 的配置文件可以有多种命名方式，而不仅仅是你列出的�
 
 总之，虽然你提到的那些是官方推荐的新命名方式，但 ESLint 仍然支持传统的 `.eslintrc.*` 命名方式。你可以根据项目的需求和个人偏好来选择合适的配置文件名称。
 
-## 🤖 AI - eslint 的配置文件都有哪些格式？
+## 🤖 ai - eslint 的配置文件都有哪些格式？
 
 ESLint 支持多种配置文件格式，每种格式都有其特点和适用场景。以下是 ESLint 支持的主要配置文件格式：
 

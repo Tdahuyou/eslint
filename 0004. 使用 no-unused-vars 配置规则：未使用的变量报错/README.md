@@ -21,7 +21,7 @@ module.exports = {
 
 ![](md-imgs/2024-09-29-13-03-19.png)
 
-## 🤖 AI - 请介绍一下 no-unused-var 配置
+## 🤖 ai - 请介绍一下 no-unused-var 配置
 
 `no-unused-vars` 是 ESLint 中一个非常有用的规则，用于检测代码中未使用的变量、函数参数或导入的模块。这个规则有助于保持代码的整洁，避免不必要的声明，并且可以减少潜在的错误。
 
