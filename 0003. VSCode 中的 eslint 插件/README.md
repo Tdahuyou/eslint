@@ -6,7 +6,7 @@
 
 ![](md-imgs/2024-09-29-11-07-20.png)
 
-## 🤖 ai - 请介绍一下 VS Code ESLint extension
+## 🤖 AI - 请介绍一下 VS Code ESLint extension
 
 Visual Studio Code (VSCode) 的 ESLint 扩展是由 Dirk Baeumer 开发的，它允许你在 VSCode 中集成 ESLint 代码检查工具。这个扩展能够实时地在编辑器中显示代码风格和潜在错误的问题，帮助开发者保持一致的代码质量。以下是关于这个扩展的一些重要信息：
 
@@ -67,7 +67,7 @@ Visual Studio Code (VSCode) 的 ESLint 扩展是由 Dirk Baeumer 开发的，它
 
 通过上述介绍，你应该对如何在 VSCode 中使用 ESLint 扩展有了一个基本的了解。如果你有更具体的需求或遇到问题，可以查阅官方文档或社区资源获取更多信息。
 
-## 🤖 ai - 阅读 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+## 🤖 AI - 阅读 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
 根据 Visual Studio Code Marketplace 上关于 ESLint 扩展的页面，以下是一些关键点和特性介绍：
 

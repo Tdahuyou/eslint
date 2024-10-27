@@ -35,7 +35,7 @@ const str = "Hello World"
 
 ![](md-imgs/2024-09-29-10-32-20.png)
 
-## 🤖 ai - eslint 是什么？
+## 🤖 AI - eslint 是什么？
 
 ESLint 是一个开源的 JavaScript 代码检查工具，它可以帮助开发者发现代码中的问题，并强制执行一致的编码风格。ESLint 可以识别并报告关于你代码的问题，无论是语法错误还是不符合特定编码规范的情况。
 
