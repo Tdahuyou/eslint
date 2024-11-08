@@ -1,4 +1,4 @@
-# 0003. VSCode 中的 eslint 插件
+# [0003. VSCode 中的 eslint 插件](https://github.com/Tdahuyou/eslint/tree/main/0003.%20VSCode%20%E4%B8%AD%E7%9A%84%20eslint%20%E6%8F%92%E4%BB%B6)
 
 ## 🔗 links
 

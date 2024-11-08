@@ -1,4 +1,4 @@
-# 0002. eslint 的配置文件的命名
+# [0002. eslint 的配置文件的命名](https://github.com/Tdahuyou/eslint/tree/main/0002.%20eslint%20%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D)
 
 ## 🔗 links
 
