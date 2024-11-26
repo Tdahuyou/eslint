@@ -1,17 +1,20 @@
 # [0001. eslint 是什么？](https://github.com/Tdahuyou/eslint/tree/main/0001.%20eslint%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 
+<!-- region:toc -->
+<!-- endregion:toc -->
+## 1. 📝 Summary
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://eslint.org/ - eslint 官网
 - https://github.com/eslint/eslint - eslint GitHub
 
-## 📒 notes
+## 3. 📒 notes
 
 - ESLint 是一个开源的 JavaScript 代码检查工具，它可以帮助开发者发现代码中的问题，并强制执行一致的编码风格。ESLint 可以识别并报告关于你代码的问题，无论是语法错误还是不符合特定编码规范的情况。
 - ESLint 是一个用于识别和报告在 ECMAScript/JavaScript 代码中发现的模式匹配问题的工具，它的主要目标是帮助开发者确保代码的一致性，并且减少错误的发生。它是一个完全可插拔的工具，这意味着每条规则都是一个独立的插件，用户可以根据自己的需求在运行时添加更多的规则。
 
-## 💻 demo - 添加规则：程序中的引号必须使用单引号
+## 4. 💻 demo - 添加规则：程序中的引号必须使用单引号
 
 ```js
 // demo/eslint.config.cjs
@@ -36,7 +39,7 @@ const str = "Hello World"
 
 ![](md-imgs/2024-09-29-10-32-20.png)
 
-## 🤖 AI - eslint 是什么？
+## 5. 🤖 AI - eslint 是什么？
 
 ESLint 是一个开源的 JavaScript 代码检查工具，它可以帮助开发者发现代码中的问题，并强制执行一致的编码风格。ESLint 可以识别并报告关于你代码的问题，无论是语法错误还是不符合特定编码规范的情况。
 

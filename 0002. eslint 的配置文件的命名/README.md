@@ -1,17 +1,20 @@
 # [0002. eslint 的配置文件的命名](https://github.com/Tdahuyou/eslint/tree/main/0002.%20eslint%20%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D)
 
+<!-- region:toc -->
+<!-- endregion:toc -->
+## 1. 📝 Summary
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://eslint.org/docs/latest/use/configure/configuration-files#configuration-file
 
-## 📒 notes
+## 3. 📒 notes
 
 - eslint 的配置文件命名有多种写法，比如 eslint.config |.js|.mjs|.cjs|.ts|.mts|.cts 或者 .eslintrc |.js|.json|.yml|.cjs|.mjs 或者 package.json 等等。需要知道 eslint 配置文件的命名是非常灵活的，这决定了 eslint 配置信息应该书写在什么位置，我们需要知道在哪查看 eslint 的配置信息。
 - 命令 `eslint --fix` 可用来一键修复模块中的一些能够被自动修复的错误。
 - eslint 规则未生效的原因可能是因为 eslint 配置文件没有被正确加载，或者是 eslint 服务出现问题。测试时如果出现这样的异常现象“已明确代码没问题，但是 VSCode 并没有提供错误提示”，可以通过重启 VSCode 来尝试解决。
 
-## 📝 DOC - Configuration File
+## 4. 📝 DOC - Configuration File
 
 The ESLint configuration file may be named any of the following:
 
@@ -36,7 +39,7 @@ export default [
 ];
 ```
 
-## 🤖 AI - eslint 的命名只有下面这些吗？
+## 5. 🤖 AI - eslint 的命名只有下面这些吗？
 
 - eslint.config.js
 - eslint.config.mjs
@@ -68,19 +71,19 @@ ESLint 的配置文件可以有多种命名方式，而不仅仅是你列出的�
 
 这些新的命名约定是为了更好地与其他工具保持一致，并且更明确地表示它们是 ESLint 的配置文件。
 
-### 使用哪个配置文件
+### 5.1. 使用哪个配置文件
 
 - 如果你的项目已经使用了 `.eslintrc.js` 或其他传统命名，你可以继续使用它。
 - 如果你在创建新项目或希望采用最新标准，可以考虑使用 `eslint.config.js` 或相应的其他扩展名。
 
-### 注意事项
+### 5.2. 注意事项
 
 - 如果在同一目录下存在多个配置文件，ESLint 会根据上面列出的顺序选择第一个找到的配置文件。
 - 对于 TypeScript 配置文件（如 `eslint.config.ts`），你需要确保安装了 `@typescript-eslint/parser` 和相关的插件，并且在你的项目中正确配置了 TypeScript。
 
 总之，虽然你提到的那些是官方推荐的新命名方式，但 ESLint 仍然支持传统的 `.eslintrc.*` 命名方式。你可以根据项目的需求和个人偏好来选择合适的配置文件名称。
 
-## 🤖 AI - eslint 的配置文件都有哪些格式？
+## 6. 🤖 AI - eslint 的配置文件都有哪些格式？
 
 ESLint 支持多种配置文件格式，每种格式都有其特点和适用场景。以下是 ESLint 支持的主要配置文件格式：
 

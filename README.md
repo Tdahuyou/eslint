@@ -1,8 +1,10 @@
 # eslint
 
+<!-- region:toc -->
 
+<!-- endregion:toc -->
 
----
+## 1. 初步认识 eslint
 
 - [ ] [0001. eslint 是什么？](https://github.com/Tdahuyou/eslint/tree/main/0001.%20eslint%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/README.md) <!-- [locale](./0001.%20eslint%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/README.md) -->
 - [ ] [0002. eslint 的配置文件的命名](https://github.com/Tdahuyou/eslint/tree/main/0002.%20eslint%20%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D/README.md) <!-- [locale](./0002.%20eslint%20%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D/README.md) -->
