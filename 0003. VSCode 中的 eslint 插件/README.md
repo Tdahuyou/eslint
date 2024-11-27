@@ -8,7 +8,7 @@
   - [3.2. 安装步骤](#32-安装步骤)
   - [3.3. 配置](#33-配置)
   - [3.4. 常见问题](#34-常见问题)
-- [4. 🤖 AI - 阅读 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](#4--ai---阅读-https://marketplacevisualstudiocom/items?itemname=dbaeumervscode-eslint)
+- [4. 🤖 AI - 阅读 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](#4--ai---阅读-https//marketplacevisualstudiocom/items?itemname=dbaeumervscode-eslint)
   - [4.1. 主要功能](#41-主要功能)
   - [4.2. 安装与设置](#42-安装与设置)
   - [4.3. 设置选项](#43-设置选项)

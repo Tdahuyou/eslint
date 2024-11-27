@@ -4,7 +4,7 @@
 - [1. 📝 Summary](#1--summary)
 - [2. 🔗 links](#2--links)
 - [3. 📒 notes](#3--notes)
-- [4. 💻 demo - 'no-unused-vars': 'error'](#4--demo---'no-unused-vars':-'error')
+- [4. 💻 demo - 'no-unused-vars': 'error'](#4--demo---'no-unused-vars'-'error')
 - [5. 🤖 AI - 请介绍一下 no-unused-var 配置](#5--ai---请介绍一下-no-unused-var-配置)
   - [5.1. 规则配置](#51-规则配置)
     - [5.1.1. 基本启用](#511-基本启用)
