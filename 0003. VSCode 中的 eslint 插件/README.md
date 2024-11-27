@@ -1,6 +1,19 @@
 # [0003. VSCode 中的 eslint 插件](https://github.com/Tdahuyou/eslint/tree/main/0003.%20VSCode%20%E4%B8%AD%E7%9A%84%20eslint%20%E6%8F%92%E4%BB%B6)
 
 <!-- region:toc -->
+- [1. 📝 Summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 🤖 AI - 请介绍一下 VS Code ESLint extension](#3--ai---请介绍一下-vs-code-eslint-extension)
+  - [3.1. 主要特性](#31-主要特性)
+  - [3.2. 安装步骤](#32-安装步骤)
+  - [3.3. 配置](#33-配置)
+  - [3.4. 常见问题](#34-常见问题)
+- [4. 🤖 AI - 阅读 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](#4--ai---阅读-https://marketplacevisualstudiocom/items?itemname=dbaeumervscode-eslint)
+  - [4.1. 主要功能](#41-主要功能)
+  - [4.2. 安装与设置](#42-安装与设置)
+  - [4.3. 设置选项](#43-设置选项)
+  - [4.4. 版本更新](#44-版本更新)
+  - [4.5. 安全性和隐私](#45-安全性和隐私)
 <!-- endregion:toc -->
 ## 1. 📝 Summary
 

@@ -1,6 +1,14 @@
 # [0002. eslint 的配置文件的命名](https://github.com/Tdahuyou/eslint/tree/main/0002.%20eslint%20%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%9A%84%E5%91%BD%E5%90%8D)
 
 <!-- region:toc -->
+- [1. 📝 Summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes](#3--notes)
+- [4. 📝 DOC - Configuration File](#4--doc---configuration-file)
+- [5. 🤖 AI - eslint 的命名只有下面这些吗？](#5--ai---eslint-的命名只有下面这些吗)
+  - [5.1. 使用哪个配置文件](#51-使用哪个配置文件)
+  - [5.2. 注意事项](#52-注意事项)
+- [6. 🤖 AI - eslint 的配置文件都有哪些格式？](#6--ai---eslint-的配置文件都有哪些格式)
 <!-- endregion:toc -->
 ## 1. 📝 Summary
 
