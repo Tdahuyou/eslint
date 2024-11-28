@@ -3,7 +3,6 @@
 <!-- region:toc -->
 - [eslint](#eslint)
   - [1. 初步认识 eslint](#1-初步认识-eslint)
-  - [2. ⏰ 待分组](#2--待分组)
 <!-- endregion:toc -->
 
 ## 1. 初步认识 eslint
@@ -44,8 +43,6 @@
   - [4. 📒 忽略模式概述](https://github.com/Tdahuyou/eslint/tree/main/0004.%20%E4%BD%BF%E7%94%A8%20no-unused-vars%20%E9%85%8D%E7%BD%AE%E8%A7%84%E5%88%99%EF%BC%9A%E6%9C%AA%E4%BD%BF%E7%94%A8%E7%9A%84%E5%8F%98%E9%87%8F%E6%8A%A5%E9%94%99/README.md#4--忽略模式概述)
   <!-- endregion:toc -->
   
-
-## 2. ⏰ 待分组
 
 - [ ] [0005. eslint 配置格式](https://github.com/Tdahuyou/eslint/tree/main/0005.%20eslint%20%E9%85%8D%E7%BD%AE%E6%A0%BC%E5%BC%8F/README.md) <!-- [locale](./0005.%20eslint%20%E9%85%8D%E7%BD%AE%E6%A0%BC%E5%BC%8F/README.md) -->  
   <!-- region:toc -->
